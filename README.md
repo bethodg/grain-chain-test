@@ -10,8 +10,8 @@
 2. Recomendable descomprimir el forder en la unidad C:
 3. Agregar variable de entorno de PHP al PATH del sistema, ejemplo : C:\php-8.1.10, nota: es la ruta para poder acceder a PHP.
 4. Abrir Terminal de windows, puedes comprobar con el comando `php -v` si esta actualmente la versión que se instaló, de lo contrario puedes remover del PATH las otras variables de entorno enfocadas a PHP temporalmente.
-5. Ir a la carpeta de PHP y clonar el archivo `php.ini-production` quitando el "-production"
-6. Abrir el archivo clonado que deberia de estar como `php.ini` y descomentar ( remover ;) de estas siguientes extensiones del archivo
+5. Ir a la carpeta de PHP y clonar el archivo `php.ini-production` quitando el "-production".
+6. Abrir el archivo clonado que deberia de estar como `php.ini` y descomentar ( remover ;) de estas siguientes extensiones del archivo, al finalizar, guardar los cambios.
  ``` 
  Ejemplo: 
    Antes
