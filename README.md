@@ -38,8 +38,9 @@
 1. Abrir la terminar, debes de crear una carpeta donde alojaras el proyecto y clonarlo desde git 
 ![image](https://user-images.githubusercontent.com/68037595/190222401-4669cf89-e052-4c47-8a0b-48063709a01c.png)
 2. Instalar las siguientes dependencias en la terminal
- - `composer install`
- - `npm install`
+ - `composer install` ( en caso que te pida habilitar extenciones de php, ve al archivo php.ini)
+ - `npm install` ( debes de tener nodejs instalado )
+ 
 
 3. Abrir la carpeta del proyecto en windows y clonar el archivo `.env.example` y renombrarlo a `.env`
 ![image](https://user-images.githubusercontent.com/68037595/190223936-807a1e3c-4417-40a1-8cd1-85f16fcd3a61.png)
