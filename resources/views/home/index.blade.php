@@ -48,7 +48,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="d-grid gap-2 d-md-flex justify-content-md-center">
-                    <button id="btn-submit-lights" class="btn btn-primary me-md-2" type="button">Calcular Focos</button>
+                    <button id="btn-submit-lights" class="btn btn-primary me-md-2 disabled" type="button">Calcular Focos</button>
                     <button id="btn-submit" class="btn btn-primary disabled" type="button"> Enviar Archivo</button>
                   </div>
             </div>

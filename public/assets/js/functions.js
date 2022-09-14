@@ -50,4 +50,8 @@ $(function () {
             $(".btn-primary").addClass('disabled');
         }
     });
+    drEvent.on('dropify.beforeClear', function(event, element){
+        $(".btn-primary").addClass('disabled');
+    });
+    
 });
