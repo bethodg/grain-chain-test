@@ -9,6 +9,8 @@
 1. Ir a la pagina oficial de php y descargar la version estable, recomendable que sea Tread Safe ( .zip )  https://windows.php.net/download#php-8.1
 2. Recomendable descomprimir el forder en la unidad C:
 3. Agregar variable de entorno de PHP al PATH del sistema, ejemplo : C:\php-8.1.10, nota: es la ruta para poder acceder a PHP.
+    ![image](https://user-images.githubusercontent.com/68037595/190238186-9fb12610-2691-43a5-b03a-6619f760f012.png)
+
 4. Abrir Terminal de windows, puedes comprobar con el comando `php -v` si esta actualmente la versión que se instaló, de lo contrario puedes remover del PATH las otras variables de entorno enfocadas a PHP temporalmente.
 5. Ir a la carpeta de PHP y clonar el archivo `php.ini-production` quitando el "-production".
 6. Abrir el archivo clonado que deberia de estar como `php.ini` y descomentar ( remover ;) de estas siguientes extensiones del archivo, al finalizar, guardar los cambios.
