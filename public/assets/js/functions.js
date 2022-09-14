@@ -16,7 +16,7 @@ $(function () {
 
          $.ajax({
             type: form.attr('method'),
-            url: form.attr('action'),
+            url: "/get-matrix",
             data: formData,
             processData: false,
             contentType: false,
