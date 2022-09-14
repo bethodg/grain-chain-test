@@ -1,0 +1,16 @@
+.gc-bg{
+    opacity: 1;
+    background-color: rgb(243 244 246);
+}
+
+.bg-yellow{
+    background-color: yellow !important;
+}
+
+.bg-yellow.low {
+    opacity: 0.4;
+}
+
+.bg-icon{
+    background-color: #43A424;
+}
