@@ -1,5 +1,9 @@
 $(function () {
-    
+    $.ajaxSetup({
+        headers: {
+            'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+        }
+    });
     var drEvent = $('.dropify').dropify();
 
     $(document).on('click', '#btn-submit', function(e) {
