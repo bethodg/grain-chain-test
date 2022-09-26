@@ -66,4 +66,4 @@
 11. Para cambiar de matriz, vuelve a seguir el paso 1, nota: solo acepta archivos .txt
 
 ## Nota
-Si utilizas un generador de matrices, te recomiendo crear un archivo y hacerlo manual.
+Si utilizas un generador de matrices (no lee archivos generados), te recomiendo crear un archivo y hacerlo manual .
